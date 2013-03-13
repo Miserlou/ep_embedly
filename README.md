@@ -1,4 +1,4 @@
-ep_embedly
-==========
+#ep_embedly
+## Etherpad Lite Plugin to Add Embed.ly Support
 
-Etherpad Lite Plugin to Add Embed.ly Support
+Coming soon!..
