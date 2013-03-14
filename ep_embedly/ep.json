@@ -1,0 +1,15 @@
+{
+  "parts": [
+    {
+      "name": "main",
+      "hooks": {
+        "eejsBlock_scripts": "ep_embedly/scripts",
+        "clientVars": "ep_embedly/clientVars"
+      },
+      "client_hooks": {
+        "aceGetFilterStack": "ep_embedly/static/js/index:aceGetFilterStack",
+        "aceCreateDomLine": "ep_embedly/static/js/index:aceCreateDomLine"
+      }
+    }
+  ]
+}
